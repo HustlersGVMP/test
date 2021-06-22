@@ -102,6 +102,69 @@
     .bindPopup("La Mesa (Behind cheap vehicle warehouse)<br><a href='https://content.rockstarnews.ru/up/images/57bb237c11b556f1d09b5fe48aef2e09.png' data-lightbox='image-11' data-title='La Mesa (Behind cheap vehicle warehouse)'>Open In-Game Screenshot</a>");
   L.marker([-6946, 4298], {icon: cardMarker}).addTo(map)
     .bindPopup("Ammu-nation with shooting range (Cypress Flats)<br><a href='https://content.rockstarnews.ru/up/images/1088c4e0602025b1b1fed1b8f51b0fcb.jpg' data-lightbox='image-11' data-title='Ammu-nation with shooting range (Cypress Flats)'>Open In-Game Screenshot</a>");
+  L.marker([-7501.5, 4324], {icon: cardMarker}).addTo(map)
+    .bindPopup("Terminal (Jetsam Terminal Building)<br><a href='https://content.rockstarnews.ru/up/images/51b8ea8b3ee82b853d6c23394f2a69ed.jpg' data-lightbox='image-11' data-title='Terminal (Jetsam Terminal Building)'>Open In-Game Screenshot</a>");
+  L.marker([-5963, 3888], {icon: cardMarker}).addTo(map)
+    .bindPopup("Pillbox Hill (Between FBI & IAA)<br><a href='https://content.rockstarnews.ru/up/images/c23af6414f51829305492271523aff12.jpg' data-lightbox='image-11' data-title='Pillbox Hill (Between FBI & IAA)'>Open In-Game Screenshot</a>");
+    .bindPopup("Zancudo (Zancudo Millitary Base)<br><a href='https://content.rockstarnews.ru/up/images/d544693b1a5c508a295af5a263d4b5c3.jpg' data-lightbox='image-11' data-title='Zancudo (Zancudo Millitary Base)'>Open In-Game Screenshot</a>");
+  L.marker([-4799.5, 1680], {icon: cardMarker}).addTo(map)
+    .bindPopup("Chumash (Nelson's General Store)<br><a href='https://content.rockstarnews.ru/up/images/b27cc83a95325231390fff74eb8b32b5.png' data-lightbox='image-11' data-title='Chumash (Nelson's General Store)'>Open In-Game Screenshot</a>");
+  L.marker([-5143, 1750], {icon: cardMarker}).addTo(map)
+    .bindPopup("Banham Canyon (In the 2nd Convenience Store)<br><a href='https://content.rockstarnews.ru/up/images/a4076ea008b266bc2151962ffbab7dd3.png' data-lightbox='image-11' data-title='Banham Canyon (In the 2nd Convenience Store)'>Open In-Game Screenshot</a>");
+  L.marker([-5004.5, 2570], {icon: cardMarker}).addTo(map)
+    .bindPopup("Richmen Glen (Convenience Store)<br><a href='https://content.rockstarnews.ru/up/images/e98d5cc21a30d2aa25da2939c89dfb1e.jpg' data-lightbox='image-11' data-title='Richmen Glen (Convenience Store)'>Open In-Game Screenshot</a>");
+  L.marker([-4730, 3476.5], {icon: cardMarker}).addTo(map)
+    .bindPopup("Vinewood Hills (Observatory)<br><a href='https://content.rockstarnews.ru/up/images/103a7e20345e35b058ececbc55a1dd03.png' data-lightbox='image-11' data-title='Vinewood Hills (Observatory)'>Open In-Game Screenshot</a>");
+  L.marker([-4783.75, 4737.5], {icon: cardMarker}).addTo(map)
+    .bindPopup("Vinewood Hills (Madrazo's Ranch)<br><a href='https://content.rockstarnews.ru/up/images/05217a8f50e6305d692cff973d9fbb93.jpg' data-lightbox='image-11' data-title='Vinewood Hills (Madrazo's Ranch)'>Open In-Game Screenshot</a>");
+  L.marker([-5338.5, 5450.5], {icon: cardMarker}).addTo(map)
+    .bindPopup("Tataviam Mt. (Ammu-Nation)<br><a href='https://content.rockstarnews.ru/up/images/9a2c2e64da4cf6482a49145eede25318.jpg' data-lightbox='image-11' data-title='Tataviam Mt. (Ammu-Nation)'>Open In-Game Screenshot</a>");
+  L.marker([-5158, 3484], {icon: cardMarker}).addTo(map)
+    .bindPopup("Vinewood Hills (Behind a yellow house in Vinewood Hills on Didion Drive)<br><a href='https://content.rockstarnews.ru/up/images/0ace054e882228ee8349ba375b70cdd8.png' data-lightbox='image-11' data-title='Vinewood Hills (Behind a yellow house in Vinewood Hills on Didion Drive)'>Open In-Game Screenshot</a>");
+  L.marker([-5296, 3690], {icon: cardMarker}).addTo(map)
+    .bindPopup("West Vinewood (Gentry Manor Hotel)<br>No in-game Screenshot =(");
+  L.marker([-5389, 3914.5], {icon: cardMarker}).addTo(map)
+    .bindPopup("Pacific Standard Bank<br><a href='https://content.rockstarnews.ru/up/images/765975dfe817ad4a426f77d18f979f38.jpg' data-lightbox='image-11' data-title='Pacific Standard Bank'>Open In-Game Screenshot</a>");
+  L.marker([-5650.75, 4114], {icon: cardMarker}).addTo(map)
+    .bindPopup("Hawick (Auto Exotic garage)<br><a href='https://content.rockstarnews.ru/up/images/d183e455541e489e5f34368e29dd846b.jpg' data-lightbox='image-11' data-title='Hawick (Auto Exotic garage)'>Open In-Game Screenshot</a>");
+  L.marker([-5741.5, 4521.5], {icon: cardMarker}).addTo(map)
+    .bindPopup("Mirror Park (Convenience Store)<br><a href='https://content.rockstarnews.ru/up/images/f4ad0cd8db86e59853b96b723e66b131.jpg' data-lightbox='image-11' data-title='Mirror Park (Convenience Store)'>Open In-Game Screenshot</a>");
+  L.marker([-5724, 3654.5], {icon: cardMarker}).addTo(map)
+    .bindPopup("Ponsonbys (Burton)<br><a href='https://content.rockstarnews.ru/up/images/96b1c5a0ebff3bf18e6b6ac1d2696169.jpg' data-lightbox='image-11' data-title='Ponsonbys (Burton)'>Open In-Game Screenshot</a>");
+  L.marker([-5463, 3119.5], {icon: cardMarker}).addTo(map)
+    .bindPopup("Rockford Hills (Mansion at the end of Steele Way)<br><a href='https://content.rockstarnews.ru/up/images/aec2fcd7e487d35cbe5c5d15ebc82682.jpg' data-lightbox='image-11' data-title='Rockford Hills (Mansion at the end of Steele Way)'>Open In-Game Screenshot</a>");
+  L.marker([-5682.5, 2991], {icon: cardMarker}).addTo(map)
+    .bindPopup("Rockford Hills (Building across from Life Invader)<br><a href='https://content.rockstarnews.ru/up/images/bda0aefd7d9624ebf4d88dce6eae5f30.jpg' data-lightbox='image-11' data-title='Rockford Hills (Building across from Life Invader)'>Open In-Game Screenshot</a>");
+  L.marker([-5601, 2760.5], {icon: cardMarker}).addTo(map)
+    .bindPopup("Richman (Backyard of mansion at intersection of West Eclipse and Tongva Drive)<br><a href='https://content.rockstarnews.ru/up/images/b1e4025b64ec61a86f00938b805e4aec.png' data-lightbox='image-11' data-title='Richman (Backyard of mansion at intersection of West Eclipse and Tongva Drive)'>Open In-Game Screenshot</a>");
+  L.marker([-5875, 3008], {icon: cardMarker}).addTo(map)
+    .bindPopup("Richards Majestic (Movie Studio)<br><a href='https://content.rockstarnews.ru/up/images/68c7b2432530c612d8bd121a4c2e26af.png' data-lightbox='image-11' data-title='Richards Majestic (Movie Studio)'>Open In-Game Screenshot</a>");
+  L.marker([-6336.25, 2547.25], {icon: cardMarker}).addTo(map)
+    .bindPopup("Del Perro Beach (End of the pier)<br><a href='https://content.rockstarnews.ru/up/images/4e2d58a8a39458014d4647e519887eaf.png' data-lightbox='image-11' data-title='Del Perro Beach (End of the pier)'>Open In-Game Screenshot</a>");
+  L.marker([-6271, 2911.5], {icon: cardMarker}).addTo(map)
+    .bindPopup("Vespucci Canals (Barber Shop)<br><a href='https://content.rockstarnews.ru/up/images/c67cb451c21becfcf7c57e33d8562090.jpg' data-lightbox='image-11' data-title='Vespucci Canals (Barber Shop)'>Open In-Game Screenshot</a>");
+  L.marker([-6557.5, 2962.5], {icon: cardMarker}).addTo(map)
+    .bindPopup("Vespucci Beach (Musclehead Gym)<br><a href='https://content.rockstarnews.ru/up/images/c643ea35c09162d9635278c45e3fb67b.png' data-lightbox='image-11' data-title='Vespucci Beach (Musclehead Gym)'>Open In-Game Screenshot</a>");
+  L.marker([-6377, 3401], {icon: cardMarker}).addTo(map)
+    .bindPopup("Little Seoul (Tram station near Heli Tours)<br><a href='https://content.rockstarnews.ru/up/images/d3b7a8f62abe58fabd61a19cd87dab97.jpg' data-lightbox='image-11' data-title='Little Seoul (Tram station near Heli Tours)'>Open In-Game Screenshot</a>");
+  L.marker([-6263, 3768.5], {icon: cardMarker}).addTo(map)
+    .bindPopup("Ammu-nation with shooting range (Pillbox Hill)<br><a href='https://content.rockstarnews.ru/up/images/5fdc4701721cc68dcf1fe9f25b022e5f.jpg' data-lightbox='image-11' data-title='Ammu-nation with shooting range (Pillbox Hill)'>Open In-Game Screenshot</a>");
+  L.marker([-6381.25, 3834.75], {icon: cardMarker}).addTo(map)
+    .bindPopup("Vanilla Unicorn<br><a href='https://content.rockstarnews.ru/up/images/0442e218eefdd63864a816b914930d24.jpg' data-lightbox='image-11' data-title='Vanilla Unicorn'>Open In-Game Screenshot</a>");
+  L.marker([-6613, 3897.5], {icon: cardMarker}).addTo(map)
+    .bindPopup("Davis Fire Department on Macdonald Street<br><a href='https://content.rockstarnews.ru/up/images/d42aba2c28b4cb1fd4c5f7e4002b70de.png' data-lightbox='image-11' data-title='Davis Fire Department on Macdonald Street'>Open In-Game Screenshot</a>");
+  L.marker([-6856, 3719], {icon: cardMarker}).addTo(map)
+    .bindPopup("Davis (Maze Bank Arena parking lot)<br><a href='https://content.rockstarnews.ru/up/images/ed64f6446b9a8a4fde7932b1d54585fa.jpg' data-lightbox='image-11' data-title='Davis (Maze Bank Arena parking lot)'>Open In-Game Screenshot</a>");
+  L.marker([-7339, 3075.5], {icon: cardMarker}).addTo(map)
+    .bindPopup("LS Intl. Airport (First floor front entrance of LSIA)<br><a href='https://content.rockstarnews.ru/up/images/d885f0751ccef4a4d3015f362427cb9a.jpg' data-lightbox='image-11' data-title='LS Intl. Airport (First floor front entrance of LSIA)'>Open In-Game Screenshot</a>");
+  L.marker([-6178, 4507], {icon: cardMarker}).addTo(map)
+    .bindPopup("Rob’s Liquor (Murrieta Heights)<br><a href='https://content.rockstarnews.ru/up/images/755bbec3f4e58f30d7f1de57da5c4004.jpg' data-lightbox='image-11' data-title='Robs Liquor (Murrieta Heights)'>Open In-Game Screenshot</a>");
+  L.marker([-6619.5, 4632.5], {icon: cardMarker}).addTo(map)
+    .bindPopup("El Burro Heights (Tattoo Parlor)<br><a href='https://content.rockstarnews.ru/up/images/0bb0aad07706d7bada4f881d9a3b387e.jpg' data-lightbox='image-11' data-title='El Burro Heights (Tattoo Parlor)'>Open In-Game Screenshot</a>");
+  L.marker([-6717, 4404.5], {icon: cardMarker}).addTo(map)
+    .bindPopup("La Mesa (Behind cheap vehicle warehouse)<br><a href='https://content.rockstarnews.ru/up/images/57bb237c11b556f1d09b5fe48aef2e09.png' data-lightbox='image-11' data-title='La Mesa (Behind cheap vehicle warehouse)'>Open In-Game Screenshot</a>");
+  L.marker([-6946, 4298], {icon: cardMarker}).addTo(map)
+    .bindPopup("Ammu-nation with shooting range (Cypress Flats)<br><a href='https://content.rockstarnews.ru/up/images/1088c4e0602025b1b1fed1b8f51b0fcb.jpg' data-lightbox='image-11' data-title='Ammu-nation with shooting range (Cypress Flats)'>Open In-Game Screenshot</a>");
   L.marker([-7473.5, 4573], {icon: cardMarker}).addTo(map)
     .bindPopup("Terminal (Jetsam Terminal Building)<br><a href='https://content.rockstarnews.ru/up/images/51b8ea8b3ee82b853d6c23394f2a69ed.jpg' data-lightbox='image-11' data-title='Terminal (Jetsam Terminal Building)'>Open In-Game Screenshot</a>");
   L.marker([-5963, 3888], {icon: cardMarker}).addTo(map)
