@@ -1,2 +1,2 @@
-  L.marker([-7473, 4573], {icon: cardMarker}).addTo(map)
-    .bindPopup("Inside Los Santos Customs<br><a href='https://content.rockstarnews.ru/up/images/4797cc9dfe41a8c7808e0e5fd8a795c4.png' data-lightbox='image-1' data-title='Inside Los Santos Customs'>Open In-Game Screenshot</a>");
+  L.marker([-2574.75, 6485.5], {icon: cardMarker}).addTo(map)
+    .bindPopup("Insel 1<br><a href='https://i.imgur.com/3sx9iLU.jpeg' data-lightbox='image-1' data-title='Insel 1'>Open In-Game Screenshot</a>");
