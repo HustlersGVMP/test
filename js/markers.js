@@ -102,7 +102,7 @@
     .bindPopup("La Mesa (Behind cheap vehicle warehouse)<br><a href='https://content.rockstarnews.ru/up/images/57bb237c11b556f1d09b5fe48aef2e09.png' data-lightbox='image-11' data-title='La Mesa (Behind cheap vehicle warehouse)'>Open In-Game Screenshot</a>");
   L.marker([-6946, 4298], {icon: cardMarker}).addTo(map)
     .bindPopup("Ammu-nation with shooting range (Cypress Flats)<br><a href='https://content.rockstarnews.ru/up/images/1088c4e0602025b1b1fed1b8f51b0fcb.jpg' data-lightbox='image-11' data-title='Ammu-nation with shooting range (Cypress Flats)'>Open In-Game Screenshot</a>");
-  L.marker([-7501.5, 4324], {icon: cardMarker}).addTo(map)
+  L.marker([-7473.5, 4573], {icon: cardMarker}).addTo(map)
     .bindPopup("Terminal (Jetsam Terminal Building)<br><a href='https://content.rockstarnews.ru/up/images/51b8ea8b3ee82b853d6c23394f2a69ed.jpg' data-lightbox='image-11' data-title='Terminal (Jetsam Terminal Building)'>Open In-Game Screenshot</a>");
   L.marker([-5963, 3888], {icon: cardMarker}).addTo(map)
     .bindPopup("Pillbox Hill (Between FBI & IAA)<br><a href='https://content.rockstarnews.ru/up/images/c23af6414f51829305492271523aff12.jpg' data-lightbox='image-11' data-title='Pillbox Hill (Between FBI & IAA)'>Open In-Game Screenshot</a>");
