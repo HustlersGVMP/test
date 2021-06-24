@@ -32,10 +32,10 @@ L.marker([-7010 , 3294], {icon: cardIcon9}).addTo(map)
   .bindPopup("<h2>Flughafen1</h3><p><a href='https://i.imgur.com/V6rvii6.png' data-lightbox='image-1' data-title='Flughafen1'>Open In-Game Screenshot</a><div class='input-group input-group-sm mb-3'></div></div></p>");
 L.marker([-6868 , 2994], {icon: cardIcon9}).addTo(map)
   .bindPopup("<h2>Flughafen2</h3><p><a href='' data-lightbox='image-1' data-title='Flughafen2'>Open In-Game Screenshot</a><div class='input-group input-group-sm mb-3'></div></div></p>");
-L.marker([-7379 , 2563], {icon: cardIcon9}).addTo(map)
-  .bindPopup("<h2>Flughafen3</h3><p><a href='' data-lightbox='image-1' data-title='Flughafen3'>Open In-Game Screenshot</a><div class='input-group input-group-sm mb-3'></div></div></p>");
 L.marker([-7134 , 2965], {icon: cardIcon9}).addTo(map)
-  .bindPopup("<h2>Flughafen4</h3><p><a href='https://i.imgur.com/8mt7pPc.png' data-lightbox='image-1' data-title='Flughafen4'>Open In-Game Screenshot</a><div class='input-group input-group-sm mb-3'></div></div></p>");
+  .bindPopup("<h2>Flughafen4</h3><p><a href='https://i.imgur.com/GKrSbTz.png' data-lightbox='image-1' data-title='Flughafen4'>Open In-Game Screenshot</a><div class='input-group input-group-sm mb-3'></div></div></p>");
+L.marker([-2337.75, 4837.25], {icon: cardIcon1}).addTo(map)
+  .bindPopup("<h2>Grapeseed1</h3><p><a href='https://i.imgur.com/V6ZZEdm.png' data-lightbox='image-1' data-title='Grapeseed1'>Open In-Game Screenshot</a><div class='input-group input-group-sm mb-3'></div></div></p>");
 L.marker([-2337.75, 4837.25], {icon: cardIcon1}).addTo(map)
   .bindPopup("<h2>Grapeseed1</h3><p><a href='https://i.imgur.com/V6ZZEdm.png' data-lightbox='image-1' data-title='Grapeseed1'>Open In-Game Screenshot</a><div class='input-group input-group-sm mb-3'></div></div></p>");
 L.marker([-2121, 5059.75], {icon: cardIcon1}).addTo(map)
@@ -164,9 +164,9 @@ L.marker([-5498 , 4030], {icon: cardIcon8}).addTo(map)
   .bindPopup("<h2>Vinewood3</h3><p><a href='https://i.imgur.com/rIdxUdo.png' data-lightbox='image-1' data-title='Vinewood3'>Open In-Game Screenshot</a><div class='input-group input-group-sm mb-3'></div></div></p>");
 L.marker([-5518.25, 3880.5], {icon: cardIcon3}).addTo(map)
   .bindPopup("<h2>Vinewood4</h3><p><a href='https://i.imgur.com/ASdqRgF.png' data-lightbox='image-1' data-title='Vinewood4'>Open In-Game Screenshot</a><div class='input-group input-group-sm mb-3'></div></div></p>");
-L.marker([-5501 , 3408], {icon: cardIcon3}).addTo(map)
+L.marker([-5418, 3418], {icon: cardIcon3}).addTo(map)
   .bindPopup("<h2>Vinewood5</h3><p><a href='https://i.imgur.com/BQF9uSx.png' data-lightbox='image-1' data-title='Vinewood5'>Open In-Game Screenshot</a><div class='input-group input-group-sm mb-3'></div></div></p>");
-L.marker([-5331 , 3346], {icon: cardIcon3}).addTo(map)
+L.marker([-5331, 3346], {icon: cardIcon3}).addTo(map)
   .bindPopup("<h2>Vinewood6</h3><p><a href='' data-lightbox='image-1' data-title='Vinewood6'>Open In-Game Screenshot</a><div class='input-group input-group-sm mb-3'></div></div></p>");
 L.marker([-4947.5, 3086.25], {icon: cardIcon3}).addTo(map)
   .bindPopup("<h2>Vinewood7</h3><p><a href='https://i.imgur.com/vtqMD2u.png' data-lightbox='image-1' data-title='Vinewood7'>Open In-Game Screenshot</a><div class='input-group input-group-sm mb-3'></div></div></p>");
