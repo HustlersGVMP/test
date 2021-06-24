@@ -75,7 +75,7 @@ L.marker([-5338.75, 5728.5], {icon: cardIcon7}).addTo(map)
 L.marker([-3824.5, 6037.5], {icon: cardIcon7}).addTo(map)
   .bindPopup("<h2>Insel5</h3><p><a href='https://i.imgur.com/z1Z5qe9.png' data-lightbox='image-1' data-title='Insel5'>Open In-Game Screenshot</a><div class='input-group input-group-sm mb-3'></div></div></p>");
 L.marker([-6520, 4283], {icon: cardIcon2}).addTo(map)
-  .bindPopup("<h2>La Mesa1</h3><p><a href='http://i.epvpimg.com/MKMLeab.png' data-lightbox='image-1' data-title='La Mesa1'>Open In-Game Screenshot</a><div class='input-group input-group-sm mb-3'></div></div></p>");
+  .bindPopup("<h2>La Mesa1</h3><p><a href='https://i.imgur.com/8hK8v1q.png' data-lightbox='image-1' data-title='La Mesa1'>Open In-Game Screenshot</a><div class='input-group input-group-sm mb-3'></div></div></p>");
 L.marker([-6015.25, 3225.5], {icon: cardIcon5}).addTo(map)
   .bindPopup("<h2>Little Soul1</h3><p><a href='https://i.imgur.com/a00FAx0.png' data-lightbox='image-1' data-title='Little Soul1'>Open In-Game Screenshot</a><div class='input-group input-group-sm mb-3'></div></div></p>");
 L.marker([-6009, 3249.25], {icon: cardIcon5}).addTo(map)
