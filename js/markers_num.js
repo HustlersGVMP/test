@@ -137,13 +137,13 @@ L.marker([-5681.5, 2988.25], {icon: cardIcon5}).addTo(map)
 L.marker([-5672.25, 2909], {icon: cardIcon5}).addTo(map)
   .bindPopup("<h2>Rockford4</h3><p><a href='https://i.imgur.com/Wqly6W4.png' data-lightbox='image-1' data-title='Rockford4'>Open In-Game Screenshot</a><div class='input-group input-group-sm mb-3'></div></div></p>");
 L.marker([-3157 , 4769], {icon: cardIcon4}).addTo(map)
-  .bindPopup("<h2>Sandy1</h3><p><a href='https://i.imgur.com/37JFQZL.png' data-lightbox='image-1' data-title='Sandy1'>Open In-Game Screenshot</a><div class='input-group input-group-sm mb-3'></div></div></p>");
+  .bindPopup("<h2>Sandy1</h3><p><a href='https://i.imgur.com/fYprazB.png' data-lightbox='image-1' data-title='Sandy1'>Open In-Game Screenshot</a><div class='input-group input-group-sm mb-3'></div></div></p>");
 L.marker([-3145 , 4383], {icon: cardIcon4}).addTo(map)
   .bindPopup("<h2>Sandy2</h3><p><a href='https://i.imgur.com/T6fBime.png' data-lightbox='image-1' data-title='Sandy2'>Open In-Game Screenshot</a><div class='input-group input-group-sm mb-3'></div></div></p>");
 L.marker([-3421 , 4359], {icon: cardIcon4}).addTo(map)
   .bindPopup("<h2>Sandy3</h3><p><a href='https://i.imgur.com/X7y3aZL.png' data-lightbox='image-1' data-title='Sandy3'>Open In-Game Screenshot</a><div class='input-group input-group-sm mb-3'></div></div></p>");
 L.marker([-3096 , 3792], {icon: cardIcon4}).addTo(map)
-  .bindPopup("<h2>Sandy4</h3><p><a href='' data-lightbox='image-1' data-title='Sandy4'>Open In-Game Screenshot</a><div class='input-group input-group-sm mb-3'></div></div></p>");
+  .bindPopup("<h2>Sandy4</h3><p><a href='https://i.imgur.com/mZIh5nG.png' data-lightbox='image-1' data-title='Sandy4'>Open In-Game Screenshot</a><div class='input-group input-group-sm mb-3'></div></div></p>");
 L.marker([-3329 , 5327], {icon: cardIcon4}).addTo(map)
   .bindPopup("<h2>Sandy5</h3><p><a href='https://i.imgur.com/fp8lkCJ.png' data-lightbox='image-1' data-title='Sandy5'>Open In-Game Screenshot</a><div class='input-group input-group-sm mb-3'></div></div></p>");
 L.marker([-3361 , 4866], {icon: cardIcon4}).addTo(map)
