@@ -66,15 +66,15 @@ L.marker([-3573.25, 4026.25], {icon: cardIcon4}).addTo(map)
   .bindPopup("<h2>Harmony3</h3><p><a href='https://i.imgur.com/Y3d8MVw.png' data-lightbox='image-1' data-title='Harmony3'>Open In-Game Screenshot</a><div class='input-group input-group-sm mb-3'></div></div></p>");
 L.marker([-4085.5, 3581.75], {icon: cardIcon3}).addTo(map)
   .bindPopup("<h2>Harmony4</h3><p><a href='https://i.imgur.com/HR7nhGT.jpeg' data-lightbox='image-1' data-title='Harmony4'>Open In-Game Screenshot</a><div class='input-group input-group-sm mb-3'></div></div></p>");
-L.marker([-2574.75, 6485.5], {icon: cardIcon7}).addTo(map)
+L.marker([-2574.75, 6485.5], {icon: cardIcon10}).addTo(map)
   .bindPopup("<h2>Insel1</h3><p><a href='https://i.imgur.com/SpBC9r7.png' data-lightbox='image-1' data-title='Insel1'>Open In-Game Screenshot</a><div class='input-group input-group-sm mb-3'></div></div></p>");
-L.marker([-617, 3907.25], {icon: cardIcon7}).addTo(map)
+L.marker([-617, 3907.25], {icon: cardIcon10}).addTo(map)
   .bindPopup("<h2>Insel2</h3><p><a href='https://i.imgur.com/eNCNvaf.png' data-lightbox='image-1' data-title='Insel2'>Open In-Game Screenshot</a><div class='input-group input-group-sm mb-3'></div></div></p>");
-L.marker([-7242.5, 5172.25], {icon: cardIcon7}).addTo(map)
+L.marker([-7242.5, 5172.25], {icon: cardIcon10}).addTo(map)
   .bindPopup("<h2>Insel3</h3><p><a href='https://i.imgur.com/WkqWWCz.png' data-lightbox='image-1' data-title='Insel3'>Open In-Game Screenshot</a><div class='input-group input-group-sm mb-3'></div></div></p>");
-L.marker([-5338.75, 5728.5], {icon: cardIcon7}).addTo(map)
+L.marker([-5338.75, 5728.5], {icon: cardIcon10}).addTo(map)
   .bindPopup("<h2>Insel4</h3><p><a href='https://i.imgur.com/ucu3rou.png' data-lightbox='image-1' data-title='Insel4'>Open In-Game Screenshot</a><div class='input-group input-group-sm mb-3'></div></div></p>");
-L.marker([-3824.5, 6037.5], {icon: cardIcon7}).addTo(map)
+L.marker([-3824.5, 6037.5], {icon: cardIcon10}).addTo(map)
   .bindPopup("<h2>Insel5</h3><p><a href='https://i.imgur.com/AtWHN9X.png' data-lightbox='image-1' data-title='Insel5'>Open In-Game Screenshot</a><div class='input-group input-group-sm mb-3'></div></div></p>");
 L.marker([-6520, 4283], {icon: cardIcon2}).addTo(map)
   .bindPopup("<h2>La Mesa1</h3><p><a href='https://i.imgur.com/8hK8v1q.png' data-lightbox='image-1' data-title='La Mesa1'>Open In-Game Screenshot</a><div class='input-group input-group-sm mb-3'></div></div></p>");
@@ -92,11 +92,11 @@ L.marker([-6044.5, 4503.5], {icon: cardIcon2}).addTo(map)
   .bindPopup("<h2>Mirror Park2</h3><p><a href='https://i.imgur.com/m8BHWac.jpg' data-lightbox='image-1' data-title='Mirror Park2'>Open In-Game Screenshot</a><div class='input-group input-group-sm mb-3'></div></div></p>");
 L.marker([-5963, 4505.25], {icon: cardIcon2}).addTo(map)
   .bindPopup("<h2>Mirror Park3</h3><p><a href='https://i.imgur.com/CaZnKas.png' data-lightbox='image-1' data-title='Mirror Park3'>Open In-Game Screenshot</a><div class='input-group input-group-sm mb-3'></div></div></p>");
-L.marker([-1894.25, 5983.25], {icon: cardIcon7}).addTo(map)
+L.marker([-1894.25, 5983.25], {icon: cardIcon10}).addTo(map)
   .bindPopup("<h2>Mountain1</h3><p><a href='https://i.imgur.com/4MYTHDP.png' data-lightbox='image-1' data-title='Mountain1'>Open In-Game Screenshot</a><div class='input-group input-group-sm mb-3'></div></div></p>");
-L.marker([-1590.25, 5603.25], {icon: cardIcon7}).addTo(map)
+L.marker([-1590.25, 5603.25], {icon: cardIcon10}).addTo(map)
   .bindPopup("<h2>Mountain2</h3><p><a href='https://i.imgur.com/ddSYv4b.png' data-lightbox='image-1' data-title='Mountain2'>Open In-Game Screenshot</a><div class='input-group input-group-sm mb-3'></div></div></p>");
-L.marker([-1858.75, 4054], {icon: cardIcon7}).addTo(map)
+L.marker([-1858.75, 4054], {icon: cardIcon10}).addTo(map)
   .bindPopup("<h2>Mountain3</h3><p><a href='https://i.imgur.com/YA0XgV2.png' data-lightbox='image-1' data-title='Mountain3'>Open In-Game Screenshot</a><div class='input-group input-group-sm mb-3'></div></div></p>");
 L.marker([-4802.25, 3460.75], {icon: cardIcon3}).addTo(map)
   .bindPopup("<h2>Observatorium1</h3><p><a href='https://i.imgur.com/Bmb7ME7.png' data-lightbox='image-1' data-title='Observatorium1'>Open In-Game Screenshot</a><div class='input-group input-group-sm mb-3'></div></div></p>");
