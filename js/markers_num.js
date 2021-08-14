@@ -1,7 +1,7 @@
 L.marker([-2766.5, 3400], {icon: cardIcon4}).addTo(map)
-  .bindPopup("<h2>Canyon1</h3><p><a href='https://i.imgur.com/B9uNoRJ.png' data-lightbox='image-1' data-title='Canyon1'>Open In-Game Screenshot</a><div class='input-group input-group-sm mb-3'></div></div></p>");
+  .bindPopup("<h2>Canyon1</h3><p><a href='https://i.imgur.com/uVOaexK.png' data-lightbox='image-1' data-title='Canyon1'>Open In-Game Screenshot</a><div class='input-group input-group-sm mb-3'></div></div></p>");
 L.marker([-2379, 3256.25], {icon: cardIcon1}).addTo(map)
-  .bindPopup("<h2>Canyon2</h3><p><a href='https://i.imgur.com/p9H31mQ.png' data-lightbox='image-1' data-title='Canyon2'>Open In-Game Screenshot</a><div class='input-group input-group-sm mb-3'></div></div></p>");
+  .bindPopup("<h2>Canyon2</h3><p><a href='https://i.imgur.com/gIexO0e.png' data-lightbox='image-1' data-title='Canyon2'>Open In-Game Screenshot</a><div class='input-group input-group-sm mb-3'></div></div></p>");
 L.marker([-6925.75, 4086.75], {icon: cardIcon6}).addTo(map)
   .bindPopup("<h2>Cypress1</h3><p><a href='https://i.imgur.com/35qZUyX.png' data-lightbox='image-1' data-title='Cypress1'>Open In-Game Screenshot</a><div class='input-group input-group-sm mb-3'></div></div></p>");
 L.marker([-6930.75, 3983.25], {icon: cardIcon6}).addTo(map)
