@@ -128,13 +128,13 @@ L.marker([-6971.75, 4073.75], {icon: cardIcon6}).addTo(map)
   .bindPopup("<h2>Rancho4</h3><p><a href='https://i.imgur.com/GLFiJnK.png' data-lightbox='image-1' data-title='Rancho4'>Open In-Game Screenshot</a><div class='input-group input-group-sm mb-3'></div></div></p>");
 L.marker([-5313.75, 4584.5], {icon: cardIcon8}).addTo(map)
   .bindPopup("<h2>Rennbahn1</h3><p><a href='https://i.imgur.com/jt2uSm4.png' data-lightbox='image-1' data-title='Rennbahn1'>Open In-Game Screenshot</a><div class='input-group input-group-sm mb-3'></div></div></p>");
-L.marker([-5583.75, 3361.25], {icon: cardIcon4}).addTo(map)
+L.marker([-5583.75, 3361.25], {icon: cardIcon3}).addTo(map)
   .bindPopup("<h2>Rockford1</h3><p><a href='https://i.imgur.com/3Ou3tC7.png' data-lightbox='image-1' data-title='Rockford1'>Open In-Game Screenshot</a><div class='input-group input-group-sm mb-3'></div></div></p>");
-L.marker([-5669.5, 3163.5], {icon: cardIcon4}).addTo(map)
+L.marker([-5669.5, 3163.5], {icon: cardIcon3}).addTo(map)
   .bindPopup("<h2>Rockford2</h3><p><a href='https://i.imgur.com/6yLCW34.png' data-lightbox='image-1' data-title='Rockford2'>Open In-Game Screenshot</a><div class='input-group input-group-sm mb-3'></div></div></p>");
-L.marker([-5681.5, 2988.25], {icon: cardIcon4}).addTo(map)
+L.marker([-5681.5, 2988.25], {icon: cardIcon3}).addTo(map)
   .bindPopup("<h2>Rockford3</h3><p><a href='https://i.imgur.com/zvMyjaM.png' data-lightbox='image-1' data-title='Rockford3'>Open In-Game Screenshot</a><div class='input-group input-group-sm mb-3'></div></div></p>");
-L.marker([-5672.25, 2909], {icon: cardIcon4}).addTo(map)
+L.marker([-5672.25, 2909], {icon: cardIcon3}).addTo(map)
   .bindPopup("<h2>Rockford4</h3><p><a href='https://i.imgur.com/Wqly6W4.png' data-lightbox='image-1' data-title='Rockford4'>Open In-Game Screenshot</a><div class='input-group input-group-sm mb-3'></div></div></p>");
 L.marker([-3157 , 4769], {icon: cardIcon4}).addTo(map)
   .bindPopup("<h2>Sandy1</h3><p><a href='https://i.imgur.com/fYprazB.png' data-lightbox='image-1' data-title='Sandy1'>Open In-Game Screenshot</a><div class='input-group input-group-sm mb-3'></div></div></p>");
